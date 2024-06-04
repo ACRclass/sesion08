@@ -1,0 +1,16 @@
+*{
+font-size: 30px;
+font-family:fantasy;
+font-style: arial;
+
+}
+body{
+background-color: green;
+}
+h1{
+text-align: center;
+text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
